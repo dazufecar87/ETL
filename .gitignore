@@ -1,0 +1,11 @@
+*.pdf
+*.png
+*.zip
+*.csv
+.ipynb_checkpoints/
+.cph_tmp_hph1wdk
+.vscode
+__pycache__
+chromedriver
+conda-meta
+webscraper/list
